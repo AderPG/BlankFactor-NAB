@@ -1,0 +1,19 @@
+# Emacs save files
+*~
+\#*\#
+.\#*
+
+# Local .terraform directories
+**/.terraform/*
+.terraform.lock.hcl
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+#sensitive data
+key-terrafom-sa.json
+terraform.tfvars
